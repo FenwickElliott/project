@@ -1,0 +1,12 @@
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/FenwickElliott/project-gateway
+[submodule "project-ui"]
+	path = project-ui
+	url = https://github.com/FenwickElliott/project-ui
+[submodule "project-models"]
+	path = project-models
+	url = https://github.com/FenwickElliott/project-models
+[submodule "project-api"]
+	path = project-api
+	url = https://github.com/FenwickElliott/project-api
